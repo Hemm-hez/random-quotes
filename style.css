@@ -1,0 +1,54 @@
+
+  @import url('https://fonts.googleapis.com/css2?family=Alumni+Sans+Collegiate+One:ital@1&family=Bebas+Neue&family=Croissant+One&family=Fira+Sans:wght@500&family=Kanit:wght@500&family=Noto+Serif+Vithkuqi&family=Oswald:wght@600&family=Poppins:ital,wght@0,300;0,400;1,300;1,400&family=Prompt:wght@500&family=Roboto&family=Russo+One&family=Vina+Sans&display=swap');
+
+body{
+    background: url(endless-constellation.png);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    height: 100vh;
+    justify-content: center;
+    align-items: center;
+   color: white;
+    display: flex;
+font-family: 'Croissant One', serif;
+/* font-family: 'Fira Sans', sans-serif; */
+
+/* font-family: 'Noto Serif Vithkuqi', serif; */
+/* font-family: 'Oswald', sans-serif; */
+
+/* font-family: 'Vina Sans', sans-serif; */
+font-size: larger;
+font-weight: bold;
+
+}
+.quote-container{
+    width: 500px;
+    background-color: aliceblue;
+    border:none;
+    text-align: center;
+    padding: 20px 30px;
+    overflow: hidden;
+    background: url();
+}
+img{
+    width: 100px;
+}
+.author{
+    text-align: end;
+    padding: 0px 30px;
+}
+.bttn{
+    width: 100px;
+   height:40px ;
+   border: none;
+   border-radius: 10px;
+   font-weight: bold;
+}
+.bttn:hover{
+    font-family: 'Noto Serif Vithkuqi', serif;
+    font-weight: lighter;
+    background-color:#304FFE ;
+    color: white;
+    height: 30px;
+}
